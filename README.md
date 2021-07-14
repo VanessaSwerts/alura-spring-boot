@@ -14,7 +14,7 @@
 
 ## 💻 Sobre 
 
-Repositório criado para armazenar o código realizado durante o curso "Spring Boot API REST: Construa uma API" da [Alura](https://cursos.alura.com.br/course/spring-boot-api-rest).
+Repositório criado para armazenar o código realizado durante os cursos "Spring Boot API REST: Construa uma API" e "Spring Boot API Rest: Segurança da API, Cache e Monitoramento" da [Alura](https://cursos.alura.com.br).
 
 ## 🚀 Como executar o projeto
 

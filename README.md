@@ -26,6 +26,7 @@ Repositório criado para armazenar o código realizado durante o curso "Spring B
 ## 🛠 Tecnologias
 
 #### **API**  ([Spring Boot](https://spring.io/projects/spring-boot))
+
 - **Dependências**:
   -   **[spring-boot-starter-web](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web)**
   -   **[spring-boot-starter-test](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-test)**
@@ -33,7 +34,7 @@ Repositório criado para armazenar o código realizado durante o curso "Spring B
   -   **[spring-boot-starter-data-jpa](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa)**
   -   **[h2](https://mvnrepository.com/artifact/com.h2database/h2)**
   -   **[spring-boot-starter-validation](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-validation)**
-  -   
+
 ---
 
 ## 🦸 Autora

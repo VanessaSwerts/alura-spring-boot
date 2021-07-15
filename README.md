@@ -34,6 +34,13 @@ Repositório criado para armazenar o código realizado durante os cursos "Spring
   -   **[spring-boot-starter-data-jpa](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa)**
   -   **[h2](https://mvnrepository.com/artifact/com.h2database/h2)**
   -   **[spring-boot-starter-validation](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-validation)**
+  -   **[spring-boot-starter-cache](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-cache)**
+  -   **[spring-boot-starter-security](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-security)**
+  -   **[jjwt](https://mvnrepository.com/artifact/io.jsonwebtoken/jjwt)**
+  -   **[springfox-swagger2](https://mvnrepository.com/artifact/io.springfox/springfox-swagger2)**
+  -   **[springfox-swagger-ui](https://mvnrepository.com/artifact/io.springfox/springfox-swagger-ui)**  
+  -   **[spring-boot-starter-actuator](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-actuator)**
+  -   **[spring-boot-admin-starter-client](https://mvnrepository.com/artifact/de.codecentric/spring-boot-admin-starter-client)**
 
 ---
 

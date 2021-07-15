@@ -9,7 +9,7 @@
 </p>
 
 <h4 align="center"> 
-	✅ Spring Boot API REST: Construa uma API - Concluído ✅
+	✅ Curso de Spring Boot API REST - Concluído ✅
 </h4>
 
 ## 💻 Sobre 
